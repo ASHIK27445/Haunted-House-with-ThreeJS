@@ -1,0 +1,21 @@
+{
+  "name": "5th--haunted-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "package.json": "^2.0.1",
+    "three": "^0.173.0",
+    "vercel": "^41.1.4",
+    "vite": "^6.1.0"
+  }
+}
